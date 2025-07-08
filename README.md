@@ -1,5 +1,4 @@
 
-
 💫 Hi 👋, I'm **Siddharth Bhosale**
 **A passionate Data Analyst | Data Scientist | Cloud Enthusiast**
 
